@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32px"
+   height="32px"
+   id="svg8705"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="fav_icon.svg">
+  <defs
+     id="defs8707" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.598901"
+     inkscape:cx="-28.294407"
+     inkscape:cy="-5.5667324"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata8710">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       sodipodi:type="arc"
+       style="fill:#b5590e;fill-opacity:1;stroke:none"
+       id="path7784"
+       sodipodi:cx="617.25873"
+       sodipodi:cy="123.94681"
+       sodipodi:rx="38.468594"
+       sodipodi:ry="38.468594"
+       d="m 655.72732,123.94681 a 38.468594,38.468594 0 1 1 -76.93719,0 38.468594,38.468594 0 1 1 76.93719,0 z"
+       transform="matrix(0.41499249,0,0,0.41499249,-240.15774,-35.436994)"
+       inkscape:export-filename="/home/zooby/Projects/kmbrand/logo86.png"
+       inkscape:export-xdpi="101.12"
+       inkscape:export-ydpi="101.12" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 28.541907,26.452607 0.0026,0 -7.013261,0 -9.59859,-9.580478 -3.4652264,3.655002 0,5.233638 0,0.651292 -0.652155,0 -3.708488,0 -0.6512931,0 0,-0.651292 0,-20.2133761 5.0119361,0 0,7.6619671 7.0563954,-7.4549348 0.188917,-0.2070323 0.282082,0 1.335367,0 3.655004,0 1.469076,0 -6.826069,7.4782231 11.316111,11.764682"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path3278-0"
+       sodipodi:nodetypes="cccccccccccccccccccccc" />
+  </g>
+</svg>
